@@ -5,13 +5,13 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2014"
         version   = "3.1.2">
-    <name>Moodle Mobile</name>
+    <name>G1 Minute Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Application client G1 Minute Mobile
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://appli.g1minute.com" email="mobile@moodle.com">
         Moodle Pty Ltd
     </author>
 
